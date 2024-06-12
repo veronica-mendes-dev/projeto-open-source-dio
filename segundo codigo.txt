@@ -1,0 +1,1 @@
+Indicar erro na linha através da cor vermelha.
